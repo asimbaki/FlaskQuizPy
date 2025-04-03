@@ -49,7 +49,7 @@ FlaskQuizPy/
 
 1. Projeyi indirin:
    ```bash
-   git clone https://github.com/kullanici/FlaskQuizPy.git
+   git clone https://github.com/asimbaki/FlaskQuizPy.git
    cd FlaskQuizPy
    ```
 
@@ -95,6 +95,3 @@ FlaskQuizPy/
 5. İsterseniz "Tekrar Oyna" butonuna tıklayarak yeni bir quiz başlatın
 6. "Yüksek Skorlar" kısmından en iyi skorları görüntüleyin
 
-## Lisans
-
-Bu proje açık kaynaklıdır ve MIT lisansı altında dağıtılmaktadır. 
